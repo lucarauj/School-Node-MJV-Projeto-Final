@@ -147,7 +147,6 @@
 
 ## ✅ Repositórios:
 
-### SEMANA 1 👉 [Clique aqui 🖱](https://github.com/lucarauj/School-Node-MJV-Semana-1)
 ### SEMANA 2 👉 [Clique aqui 🖱](https://github.com/lucarauj/School-Node-MJV-Semana-2)
 ### SEMANA 3 👉 [Clique aqui 🖱](https://github.com/lucarauj/School-Node-MJV-Semana-3)
 ### SEMANA 4 👉 [Clique aqui 🖱](https://github.com/lucarauj/School-Node-MJV-Semana-4)
